@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StoryGrove.iml" filepath="$PROJECT_DIR$/StoryGrove.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoryGroveBackend/StoryGroveBackend.iml" filepath="$PROJECT_DIR$/StoryGroveBackend/StoryGroveBackend.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
